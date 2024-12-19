@@ -1,0 +1,144 @@
+/* FormularioPaginasSubsequentes.css */
+.container-formulario-subsequentes {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 80%;
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    background-color: #f8f9fa;
+  }
+  
+  .titulo-formulario-subsequentes {
+    font-size: 28px;
+    color: #343a40;
+    margin-bottom: 30px;
+    text-align: center;
+  }
+  
+  .dados-anteriores-formulario-subsequentes {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  
+  .dados-anteriores-formulario-subsequentes pre {
+    background-color: #e9ecef;
+    padding: 10px;
+    border-radius: 5px;
+    white-space: pre-wrap;
+  }
+  
+  .botao-formulario-subsequentes {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin: 10px;
+  }
+  
+  .botao-formulario-subsequentes:hover {
+    background-color: #0056b3;
+  }
+  
+  .opcoes-formulario-subsequentes {
+    margin-bottom: 20px;
+  }
+  
+  .area-edicao-formulario-subsequentes {
+    width: 100%;
+  }
+  
+  .imagem-formulario-subsequentes,
+  .texto-formulario-subsequentes {
+    border: 1px solid #ced4da;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+  }
+  
+  .imagem-formulario-subsequentes h2,
+  .texto-formulario-subsequentes h2 {
+    font-size: 20px;
+    color: #343a40;
+    margin-bottom: 10px;
+  }
+  
+  .imagem-preview-formulario-subsequentes {
+    max-width: 200px;
+    max-height: 200px;
+    margin-bottom: 10px;
+  }
+  
+  .grupo-formulario-subsequentes {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 15px;
+  }
+  
+  .grupo-formulario-subsequentes label {
+    font-size: 16px;
+    color: #343a40;
+    margin-bottom: 5px;
+  }
+  
+  .grupo-formulario-subsequentes input,
+  .grupo-formulario-subsequentes textarea {
+    padding: 10px;
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  .grupo-formulario-subsequentes input:focus,
+  .grupo-formulario-subsequentes textarea:focus {
+    border-color: #007bff;
+    outline: none;
+  }
+  
+  .bloco-formulario-subsequentes {
+    margin-bottom: 30px;
+  }
+  
+  .titulo-paginas-formulario-subsequentes {
+    font-size: 24px;
+    color: #343a40;
+    margin-top: 30px;
+    margin-bottom: 20px;
+  }
+  
+  .lista-formulario-subsequentes {
+    list-style: none;
+    padding: 0;
+    width: 100%;
+  }
+  
+  .item-formulario-subsequentes {
+    border: 1px solid #ced4da;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+  
+  .imagem-preview-formulario-subsequentes {
+    max-width: 100px;
+    max-height: 100px;
+    margin-left: 10px;
+  }
+  
+  .previa-texto-formulario-subsequentes {
+    margin-top: 10px;
+  }
+  
+  .bloco-texto-formulario-subsequentes p {
+    margin: 5px 0;
+    font-size: 14px;
+    color: #343a40;
+  }
+  
