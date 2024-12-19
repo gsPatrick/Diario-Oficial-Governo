@@ -2,7 +2,7 @@ import React from 'react';
 import '../styles/ModeloPrimeiraPagina.css'; // Importe o CSS atualizado
 
 // Supondo que você tenha as imagens importadas ou acessíveis
-import bocaDaMataLogo from '../assets/bocaDaMata.jpg';
+import bocaDaMataLogo from '../assets/bocadaMata.jpg';
 import diarioLogo from '../assets/Diario.jpeg';
 
 const ModeloPrimeiraPagina = ({ dados, currentPage, totalPages }) => {
