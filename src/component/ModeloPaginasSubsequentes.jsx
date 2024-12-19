@@ -1,6 +1,6 @@
 import React from 'react';
 import '../styles/ModeloPaginasSubsequentes.css';
-import bocaDaMataLogo from '../assets/bocaDaMata.jpg';
+import bocaDaMataLogo from '../assets/bocadaMata.jpg';
 import diarioLogo from '../assets/Diario.jpeg';
 
 const ModeloPaginasSubsequentes = ({ paginas, currentPage, totalPages, formData }) => {
